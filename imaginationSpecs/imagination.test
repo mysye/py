@@ -1,0 +1,652 @@
+
+<!doctype html>
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <!-- REQUIRED META INFORMATION -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <!-- DOCUMENT TITLE -->
+    <title>Popular Baby Names</title>
+
+    <!-- OCOMM META INFORMATION -->
+<!-- OCOMM META INFORMATION -->
+<meta name="dc.creator" content="SueKunkel" />
+<meta name="lead_content_manager" content="SueKunkel" />
+<meta name="coder" content="SueKunkel" />
+
+    <!-- OCOMM STYLES & SCRIPTS -->
+    <link href="/framework/css/style.css" type="text/css" rel="stylesheet" media="all" />
+    <!-- SMARTPHONE ICON -->
+<link rel="apple-touch-icon-precomposed" href="/framework/images/icons/png/apple-touch-icon.png">
+
+<!-- NO SCRIPT STYLES -->
+<noscript><link href="/framework/css/noscript.css" rel="stylesheet" media="all" /></noscript>
+
+<!-- SSA INTERNET HEAD SCRIPTS -->
+<script src="/framework/js/ssa.internet.head.js"></script>
+
+<!-- FORESEE SURVEY -->
+<script src="/scripts/foresee/foresee-trigger.js"></script>
+
+<!-- FACEBOOK OPEN GRAPH META TAGS -->
+<meta property="og:image" content="/framework/images/icons/png/logo-fb-share.png" />
+<meta property="og:description" content="Social Security delivers a broad range of services online at socialsecurity.gov.  We have a proud history of protecting the integrity of our programs and service to the public." />
+
+    <!-- OACT STYLES -->
+    <link href="../templatefiles/ocact.css" type="text/css" rel="stylesheet" media="all" />
+</head>
+<body data-spanish-file="/espanol/nombresdebebes/" data-gov-delivery="USSSA_31" >
+
+<script type="text/javascript" src="chkinput.js"></script>
+<!-- PAGE CONTAINER -->
+<div id="page">
+
+<!-- PAGE HEADER -->
+<!-- ACCESSIBILITY OPTIONS -->
+<div class="bg-dark-gray accessibility">
+<div class="content-wrapper no-padding">
+<a class="accessibility-mode" id="accessibility-mode" href="#">Accessibility Mode <span>Off</span></a>
+<a class="skip-navigation" id="skip-navigation" href="#title-bar">Skip to content</a>
+</div>
+</div>
+
+<!-- RESOURCES BLOCK -->
+<div class="block-resources hide-phone">
+<div class="content-wrapper no-padding">
+<div class="bg-dark-gray">
+<a class="icon icon-wheelchair" href="/accessibility/"><svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-wheelchair"></use></svg> Accessibility</a><a href="/agency/contact/">Contact Us</a><a href="/ask/" title="Frequently Asked Questions">FAQs</a><a class="language" href="/espanol/">Espa&#241;ol</a><a class="icon icon-globe" href="/multilanguage/"><svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-globe"></use></svg> Other Languages</a><a href="/signin/">Sign In</a>
+</div>
+</div>
+</div>
+
+<header class="banner" id="banner" role="banner">
+
+<div class="grid">
+
+<div class="row-12">
+
+<div class="column-6 logo" id="logo">
+
+<a href="/">
+<h1>Social Security</h1>
+<span>Official Social Security Website</span>
+</a>
+
+</div>
+<!-- END COLUMN -->
+
+<div class="column-6 align-right hide-phone">
+
+<form method="get" action="http://search.socialsecurity.gov/search" class="search-box" id="search-box" role="search">  
+<input type="hidden" name="affiliate" value="ssa" /> 
+<input class="usagov-search-autocomplete" type="search" name="query" id="q" autocomplete="off" title="Search" placeholder="Search..." />
+</form>
+
+
+</div>
+<!-- END COLUMN -->
+
+</div>
+<!-- END ROW -->
+
+</div>
+<!-- END WRAPPER -->
+
+</header>
+
+<!-- PAGE NAVIGATION -->
+<!-- MOBILE TOGGLE BUTTONS -->
+<div class="nav-mobile-toggles">
+<a class="toggle-nav" id="toggle-nav" href="#nav-top-menu"><span class="menu-icon"></span> <span class="menu-txt">Menu</span></a>
+<a class="toggle-search" href="http://search.socialsecurity.gov/search?affiliate=ssa" title="Search"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-search"></use></svg></a>
+</div>
+
+<nav class="nav-top-menu hide-print" id="nav-top-menu" role="navigation">
+
+<ul>
+
+<li><a href="/">Home</a></li>
+
+<li class="has-submenu"><a href="#">Numbers &amp; Cards</a>
+<div>
+<div class="row-12">
+<ul class="column-12">
+<li><a href="/ssnumber/">New or Replacement Social Security Number Card</a></li>
+<li><a href="//faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3749">Change Your Name</a></li>
+<li><a href="/pubs/EN-05-10023.pdf" target="pdf">Social Security Numbers for Children</a></li>
+<li><a href="/medicarecard/">Replacement Medicare Card</a></li>
+</ul>
+</div>
+</div>
+</li>
+
+<li class="has-submenu"><a href="#">Benefits</a>
+<div>
+<div class="row-12">
+<div class="column-5">
+<a class="nav-header" href="#" tabindex="-1">Learn</a>
+<div class="row-12">
+<ul class="column-6">
+<li><a href="/retire/">Retirement</a></li>
+<li><a href="/disabilityssi/">Disability</a></li>
+<li><a href="/medicare/">Medicare</a></li>
+<li><a href="/survivors/">Survivors</a></li>
+<li><a href="/disabilityssi/ssi.html">Supplemental Security Income</a></li>
+<li><a href="http://www.socialsecurity.gov/retire/estimator.html">Retirement Estimator</a></li>
+<li><a href="/planners/benefitcalculators.html">Calculators</a></li>
+</ul>
+<ul class="column-6">
+<li><a href="/reentry/">After Incarceration</a></li>
+<li><a href="/international/">Benefits outside the U.S.</a></li>
+<li><a href="/planners/retire/applying6.html">Spouses</a></li>
+<li><a href="/pubs/EN-05-10085.pdf" target="pdf">Children</a></li>
+<li><a href="/pubs/EN-05-10026.pdf" target="pdf">Children with Disabilities</a></li>
+<li><a href="/planners/retire/gpo-wep.html">Government Employees</a></li>
+<li><a href="/potentialentitlement/">Potential Entitlement</a></li>
+<li><a href="https://faq.ssa.gov/ics/support/KBAnswer.asp?questionID=3709&hitOffset=30+19&docID=1914">Social Security Statement</a></li>
+</ul>
+</div>
+</div>
+<div class="column-4">
+<a class="nav-header" href="#" tabindex="-1">Apply</a>
+<ul>
+<li><a href="http://www.socialsecurity.gov/retire/apply.html">Apply Online for Retirement</a></li>
+<li><a href="http://www.socialsecurity.gov/disabilityssi/apply.html">Apply Online for Disability</a></li>
+<li><a href="http://www.socialsecurity.gov/medicare/apply.html">Apply Online for Medicare Only</a></li>
+<li><a href="/medicare/prescriptionhelp/">Extra Help with Medicare Prescription Costs</a></li>
+<li><a href="/forms/ssa-2.html">Apply for Spouse's Benefits</a></li>
+<li><a href="/forms/ssa-4.html">Apply for Child's Benefits</a></li>
+<li><a href="/claimstatus/">Check Application Status</a></li>
+<li><a href="/disabilityssi/appeal.html">Appeal a Decision</a></li>
+</ul>
+</div>
+<div class="column-3">
+<a class="nav-header" href="#" tabindex="-1">Manage</a>
+<ul>
+<li><a href="//faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3705">Benefit Verification/<br/>Proof of Benefits Letter</a></li>
+<li><a href="//faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3704">Change Your Address</a></li>
+<li><a href="/myaccount/">Check Your Information or Benefits</a></li>
+<li><a href="/deposit/howtosign.htm">Direct Deposit</a></li>
+<li><a href="/1099/">Form SSA-1099/1042S</a></li>
+<li><a href="/medicarecard/">Replacement Medicare Card</a></li>
+<li><a href="/work/">Ticket to Work</a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+
+<li class="has-submenu"><a href="#">Information for...</a>
+<div>
+<div class="row-12">
+<div class="column-5">
+<a class="nav-header" href="#" tabindex="-1">People Like Me</a>
+<div class="row-12">
+<ul class="column-7">
+<li><a href="/people/aian/">American Indians/Alaska Natives</a></li>
+<li><a href="/people/africanamericans/">African Americans</a></li>
+<li><a href="/people/aapi/">Asian Americans/Pacific Islanders</a></li>
+<li><a href="/people/blind/">Blind or Visually Impaired</a></li>
+<li><a href="/people/deaf/">Deaf or Hard of Hearing</a></li>
+<li><a href="/people/hispanics/">Hispanics</a></li>
+<li><a href="/people/immigrants/">Immigrants</a></li>
+</ul>
+<ul class="column-5 pad-left">
+<li><a href="/people/kids/">Kids &amp; Families</a></li>
+<li><a href="/people/same-sexcouples/">Same-Sex Couples</a></li>
+<li><a href="/people/veterans/#ht=1">Veterans</a></li>
+<li><a href="/people/women/">Women</a></li>
+<li><a href="/people/veterans/">Wounded Warriors</a></li>
+<li><a href="/people/youngpeople/">Young People</a></li>
+</ul>
+</div>
+</div>
+<div class="column-7">
+<a class="nav-header" href="#" tabindex="-1">Third Parties</a>
+<div class="row-12">
+<ul class="column-6">
+<li><a href="/representation/">Appointed Representatives</a></li>
+<li><a href="/thirdparty/financial-planners.html">Financial Planners</a></li>
+<li><a href="/thirdparty/">Groups &amp; Organizations</a></li>
+<li><a href="/disability/professionals/">Health &amp; School Professionals</a></li>
+<li><a href="/thirdparty/hrm.html">Human Resource Professionals</a></li>
+<li><a href="/medicare/prescriptionhelp/materials.html">Medicare Outreach Organizations</a></li>
+</ul>
+<ul class="column-6 pad-left">
+<li><a href="/myaccount/materials.html">my Social Security Information</a></li>
+<li><a href="/news/press/">Press</a></li>
+<li><a href="/payee/">Representative Payees</a></li>
+<li><a href="/schools/">School Officials</a></li>
+<li><a href="/homelessness/">Service Providers for the Homeless</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+<li class="has-submenu"><a href="#">Business &amp; Government</a>
+<div>
+<div class="row-12">
+<ul class="column-3">
+<li><a href="/thirdparty/business.html">Business Services</a></li>
+<li><a href="/legislation/">Congress</a></li>
+<li><a href="/dataexchange/">Data Exchange</a></li>
+<li><a href="/ere/">Electronic Records Express</a></li>
+<li><a href="/employer/">Employers</a></li>
+</ul>
+<ul class="column-3">
+<li><a href="/improperpayments/afi.html">Financial Institutions</a></li>
+<li><a href="/gso/">Government Services Online</a></li>
+<li><a href="/pubs/EN-05-10022.pdf" target="pdf">Self-Employed</a></li>
+<li><a href="/agency/osdbu/">Small Business</a></li>
+<li><a href="/developer/">Software Developers</a></li>
+</ul>
+</div>
+</div>
+</li>
+
+<li class="has-submenu"><a href="#">Our Agency</a>
+<div>
+<div class="row-12">
+<div class="column-6">
+<a class="nav-header" href="#" tabindex="-1">General Information</a>
+<div class="row-12">
+<ul class="column-6">
+<li><a href="/agency/">About Us</a></li>
+<li><a href="/agency/ask-for-a-speaker.html">Ask for a Speaker</a></li>
+<li><a href="/careers/">Careers with Social Security</a></li>
+<li><a href="/compassionateallowances/">Compassionate Allowances</a></li>
+<li><a href="/digitalstrategy/">Digital Government Strategy</a></li>
+<li><a href="//faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3849">Death Master File (Death Index)</a></li>
+<li><a href="/agency/donations.html">Donations to the Trust Funds</a></li>
+</ul>
+<ul class="column-6">
+<li><a href="/eeo/">Equal Employment Information</a></li>
+<li><a href="/agency/glossary/">Glossary of Social Security Terms</a></li>
+<li><a href="/history/">History of Social Security</a></li>
+<li><a href="/eeo/nofear/">No FEAR</a></li>
+<li><a href="/open/">Open Government</a></li>
+<li><a href="/agency/plain-language/">Plain Writing</a></li>
+</ul>
+</div>
+</div>
+<div class="column-6">
+<a class="nav-header" href="#" tabindex="-1">Research, Policy &amp; Planning</a>
+<div class="row-12">
+<ul class="column-6">
+<li><a href="/oact/">Actuarial Resources</a></li>
+<li><a href="/conference/">Agency Conference Reporting</a></li>
+<li><a href="/finance/">Agency Financial Report</a></li>
+<li><a href="/agency/performance/">Annual Performance Plan & Performance Report</a></li>
+<li><a href="/budget/">Budget Estimates & Related Info</a></li>
+<li><a href="/agency/budget-and-performance.html">Budget & Performance</a></li>
+</ul>
+<ul class="column-6">
+<li><a href="/disabilityresearch/">Disability Research</a></li>
+<li><a href="/multilanguage/LEPPlan2.htm">Limited English Proficiency Plan</a></li>
+<li><a href="/regulations/">Program Rules</a></li>
+<li><a href="/improperpayments/">Reducing Improper Payments</a></li>
+<li><a href="/policy/">Research, Statistics & Policy Analysis</a></li>
+<li><a href="/oact/">Solvency of Social Security</a></li>
+<li><a href="/vision2025/">Vision 2025</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+</ul>
+</nav>
+
+
+<!-- PAGE TITLE -->
+<div id="title-bar">
+  <h2 class="hide"  >Top 10 Baby Names for 2014</h2>
+</div> 
+
+
+<!-- PAGE CONTENT -->
+<div id="content" role="main">
+
+<!-- GRID SYSTEM -->
+<div class="row-12">
+
+<div class="column-8">
+<h3 style="text-align:center">Top 10 Baby Names for 2014</h3>
+<img src="babynames2015.jpg" alt="Baby Names" width="616" height="150" class="pad-bottom">
+
+<table width="100%" summary="Top 10 baby names for 2014">	
+<thead>
+<tr align="center" valign="bottom">
+ <th scope="col" bgcolor="#eeeeee">Rank</th>
+ <th scope="col" width="42%" bgcolor="#99ccff">Male name</th>
+ <th scope="col" width="42%" bgcolor="pink">Female name</th>
+</tr>
+</thead>
+<tbody>
+<tr align="center"><td>1</td> <td>Noah</td> <td>Emma</td></tr>
+<tr align="center"><td>2</td> <td>Liam</td> <td>Olivia</td></tr>
+<tr align="center"><td>3</td> <td>Mason</td> <td>Sophia</td></tr>
+<tr align="center"><td>4</td> <td>Jacob</td> <td>Isabella</td></tr>
+<tr align="center"><td>5</td> <td>William</td> <td>Ava</td></tr>
+<tr align="center"><td>6</td> <td>Ethan</td> <td>Mia</td></tr>
+<tr align="center"><td>7</td> <td>Michael</td> <td>Emily</td></tr>
+<tr align="center"><td>8</td> <td>Alexander</td> <td>Abigail</td></tr>
+<tr align="center"><td>9</td> <td>James</td> <td>Madison</td></tr>
+<tr align="center"><td>10</td> <td>Daniel</td> <td>Charlotte</td></tr>
+
+</tbody>
+</table>
+<hr />
+
+<!-- TABS WIDGET -->
+<div class="tabs">
+
+<ul class="tabs-nav">
+ <li><a href="#">Baby Name Data</a></li>
+ <li><a href="#">Popular Names by Birth Year</a></li>
+ <li><a href="#">Popularity of a Name</a></li>
+</ul>
+
+<div>
+<h4>You can look up...</h4> 
+<ul class="divider">
+
+ <li>           <a href="rankchange.html">Change in popularity of baby names</a><br  /></li>
+<li>Popular names&hellip;<br  />
+            &nbsp; &nbsp; by <a href="decades/index.html">decade</a><br  />
+            &nbsp; &nbsp; by <a href="state/index.html">State</a><br  />
+ <!--           &nbsp; &nbsp; for <a href="twins.html">twins</a><br class="clear" /> -->
+            &nbsp; &nbsp; in <a href="territories.html">U.S. territories</a>          
+</li>
+<li><a href="top5names.html">Top 5 names</a> over the last 100 years</li>
+<li><a href="background.html">Background Information</a></li>
+</ul>
+</div>
+<div>
+  <h4>Enter the Year and Popularity for a List of the Most Popular Names </h4><!-- IN CASE JAVASCRIPT IS DISABLED -->
+<p> Any year after 1879</p>
+
+
+<form name="popnames" method="post" action="/cgi-bin/popularnames.cgi" onSubmit="return submitIt();">
+
+<p>
+<input style="width:100px" type="text" name="year" size="5" maxlength="4" id="year" value="2014" />
+<label style="display:inline;" for="year">&nbsp;&nbsp;Birth Year</label><br  />
+</p>
+
+<p>
+
+<select style="width:100px" name="top" size="1" id="rank">
+  <option value="20">Top 20</option>
+  <option value="50">Top 50</option>
+  <option value="100">Top 100</option>
+  <option value="500">Top 500</option>
+  <option value="1000">Top 1000</option>
+</select>
+<label style="display:inline;" for="rank">&nbsp;&nbsp;Popularity</label><br  />
+</p>
+<fieldset>
+<legend>Name rankings may include:</legend>
+<input type="radio" name="number" value="p" id="percent"  />
+<label  style="display:inline;" for="percent">&nbsp;&nbsp;Percent of total births</label><br  />
+<input type="radio" name="number" value="n" id="number" />
+<label  style="display:inline;" for="number">&nbsp;&nbsp;Number of births</label>
+</fieldset>
+<hr />
+<input class="uef-btn uef-btn-primary" type="submit" value="  Go  " />
+<input class="uef-btn uef-btn-secondary" type="reset" value="Reset" />
+</form>		 	   
+
+</div>
+
+<div>
+<h4>See How the Popularity of a Name has Changed Over Time!</h4><!-- IN CASE JAVASCRIPT IS DISABLED -->
+
+
+
+
+Billy between 1892 and 2001
+Jamie between 1901 and 1987
+Daniel between 1996 and 1999
+Neil between 1957 and 1983
+Jordan between 1880 and 2010
+
+curl --data "name=Billy&start=1892&sex=M"  http://www.socialsecurity.gov/cgi-bin/babyname.cgi > Billy1892-2001.html
+curl --data "name=Jamie&start=1901&sex=M"  http://www.socialsecurity.gov/cgi-bin/babyname.cgi > Jamie1901-1987.html
+curl --data "name=Daniel&start=1996&sex=M"  http://www.socialsecurity.gov/cgi-bin/babyname.cgi > Daniel1996-1999.html
+curl --data "name=Neil&start=1957&sex=M"  http://www.socialsecurity.gov/cgi-bin/babyname.cgi > Neil1957-1983.html
+curl --data "name=Jordan&start=1880&sex=M"  http://www.socialsecurity.gov/cgi-bin/babyname.cgi > Jordan1880-2010.html
+
+<form name="babyname" method="post" action="/cgi-bin/babyname.cgi" onSubmit="return submitBaby();">
+
+<p>
+<input style="width:100px" type="text" name="name" size="12" maxlength="15" id="name" title="Name: (Do not use spaces, hyphens, or other non-alphabetic characters)" />
+	<label style="display:inline;" for="name">&nbsp;Name</label><br  /> </p>
+
+<p>
+<select style="width:133px" name="start" size="1" id="start">
+	  <option value="2000" selected>2000 & later</option>
+	  <option value="1980">1980 & later</option>
+	  <option value="1960">1960 & later</option>
+	  <option value="1940">1940 & later</option>
+	  <option value="1920">1920 & later</option>
+	  <option value="1900">1900 & later</option>
+	</select>
+
+	<label style="display:inline;" for="start">&nbsp;&nbsp;Years</label><br  /> </p>
+
+	<fieldset>
+	<legend>Sex associated with name</legend>
+<input  type="radio" name="sex" value="M" id="male" />
+	<label style="display:inline;" for="male">Male</label> 
+	&#160;&#160;
+	<br  />
+<input type="radio" name="sex" value="F" id="female" />
+	<label style="display:inline;" for="female">Female</label> 
+	</fieldset>  
+	<hr />  
+<input class="uef-btn uef-btn-primary" type="submit" value="  Go  ">
+<input class="uef-btn uef-btn-secondary" type="reset" value="Reset">
+
+</form>
+
+
+
+
+
+
+
+</div>
+
+</div><!-- end .tabs -->
+
+
+
+ 	<!---babynames widget--->
+      <script language="javascript">var url =
+                    "http://www.text4baby.org/index.php/sign-up?url=" 
+                    + document.location.href;document.write
+                    ('<a class="disclaimer" href="'+ url +'">');</script>
+                    <img src=
+                    "http://www.text4baby.org/templates/beez_20/images/personal/T4B_banner_728x90.png"
+                    alt="text4baby"title="text4baby" border="0" height="62px" width="500px" /></a>
+                    <!---end of babynames widget--->
+ 
+
+
+
+</div>
+
+<div class="column-4">
+<div class="border-left-bg">
+<div class="border-left-bg">
+<div class="image-side"> <a href="http://socialsecurity.gov/myaccount/"><img border="2" class="img-center pad-top" al alt="My Social Security - Sign In or Create An Account" src="babynames-myssa.jpg"></a>
+</div>
+<!-- end .image-container --></div>
+
+
+<br />
+
+
+<div class="image-side"> <a class="disclaimer" href="https://www.youtube.com/watch?v=vfkcUNaBV2c&feature=youtu.be  "><img border="0" class="shadow" alt="2014 Baby Names video" width="300" src="babynames-video-2015.jpg">Watch our video countdown of 2014&#146;s Top 10 Most Popular Baby Names!</a></div>
+
+  
+  <!-- end .image-container -->
+
+
+<h3 class="sidebar-gray">For Parents & Guardians</h3>
+<ul class="divider">
+<li><a href="/pubs/10023.html">Baby's First Social Security Number</a></li>
+<li><a href="/pubs/10085.html">Benefits for Children</a></li>
+<li><a href="http://www.ssa.gov/people/kids/#a0=3&ht=1">Benefits for Grandchildren</a></li>
+<li><a href="http://www.ssa.gov/kids/#ht=1 ">What Every Parent Should Know About Social Security</a></li>
+<li><a href="/retire2/">Plan Your Family's Financial Security </a></li>
+<li><a href="/planners/calculators.htm">Calculate Your Retirement Benefits</a></li> 
+<li><a href="../TR/index.html">Future Financial Status of Social Security</a></li> 
+</ul>
+
+<h3 class="sidebar-gray">Other Sites of Interest</h3>
+<ul class="divider">
+<li><a href="http://www.nlm.nih.gov/medlineplus/pregnancy.html">Healthy Pregnancy</a></li>
+<li><a href="http://www.nlm.nih.gov/medlineplus/infantandnewborncare.html">Caring for Your Newborn</a></li>     
+<li><a href="http://www.cdc.gov/vaccines/pubs/parents-guide/default.htm">Childhood Immunizations</a></li>
+<li><a href="http://www.cpsc.gov/CPSCPUB/PUBS/chld_sfy.html">Child Safety Publications</a></li>
+<li><a href="http://www.fns.usda.gov/fns/default.htm">Food Stamps and WIC</a></li>
+<li><a href="http://www.cpsc.gov/cpscpub/prerel/category/child.html">Infant/child Product Recalls</a></li>
+
+
+
+
+</ul>
+
+
+</div>
+</div>
+
+
+</div><!-- end .row-12 -->
+</div><!-- end #content -->
+
+<!-- PAGE FOOTER -->
+<!-- FOOTER -->
+<footer class="footer" id="footer" role="contentinfo">
+
+<div class="show-phone resources">
+<h4>Resources:</h4>
+<ul>
+<li><a href="/accessibility/"><svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-wheelchair"></use></svg> Accessibility</a></li> 
+<li><a href="/agency/contact/">Contact Us</a></li> 
+<li><a href="/ask/">FAQs</a></li> 
+<li><a class="language" href="/espanol/">Espa&#241;ol</a></li>
+<li><a href="/multilanguage/"><svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-globe"></use></svg> Other Languages</a></li>
+<li><a href="/signin/">Sign In</a></li>
+</ul>
+</div>
+
+<div class="important-info">
+<h4 class="show-phone">Important Information:</h4>
+<ul>
+<li><a href="/foia/">FOIA</a></li> 
+<li><a href="/agency/glossary/">Glossary</a></li> 
+<li><a href="/agency/privacy.html">Privacy</a></li> 
+<li><a href="http://oig.ssa.gov/report-fraud-waste-or-abuse">Report Fraud, Waste or Abuse</a></li>
+<li><a href="/sitemap.htm">Site Map</a></li>  
+<li><a href="/agency/websitepolicies.html">Website Policies</a></li> 
+</ul>
+</div>
+
+<div class="gov-sites">
+<h4 class="show-phone">Other Government Websites:</h4>
+<ul>                    
+<li><a href="http://www.govbenefits.gov">Benefits.gov</a></li>
+<li><a href="http://www.disability.gov/">Disability.gov</a></li>
+<li><a href="http://www.healthcare.gov">Healthcare.gov</a></li>
+<li><a href="http://mymoney.gov">MyMoney.gov</a></li>
+<li><a href="http://regulations.gov">Regulations.gov</a></li>
+<li><a href="http://www.usa.gov">USA.gov</a></li>
+<li><a href="/agency/other-gov-websites.html">Other Government Sites</a></li>
+</ul>
+</div>
+
+<div class="social-media">
+<h4 class="show-phone">Follow:</h4>
+<ul>
+<li><a class="btn-twitter disclaimer" href="//twitter.com/socialsecurity/" title="Twitter"><svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-twitter"></use></svg></a></li>
+<li><a class="btn-facebook disclaimer" href="//facebook.com/socialsecurity/" title="Facebook"><svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-facebook"></use></svg></a></li>
+<li><a class="btn-youtube disclaimer" href="//youtube.com/socialsecurityonline/" title="YouTube"><svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-youtube"></use></svg></a></li>
+<li><a class="btn-blog" href="//blog.socialsecurity.gov/" title="Blog"><svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-blog"></use></svg></a></li>
+<li><a class="btn-more" href="/socialmedia/" title="More Social Media" ><svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-plus"></use></svg></a></li>
+</ul>
+</div>
+
+</footer>
+<!-- END FOOTER -->
+
+</div><!-- end #page -->
+<!-- OCOMM BODY CONTENT -->
+<!-- DEFINITION PANEL -->
+<aside class="definition-panel" id="definition-panel" role="dialog"></aside>
+
+<!-- DISCLAIMER DIALOG -->
+<aside class="dialog" id="disclaimer-dialog" role="dialog">
+<div>
+<header><h4 tabindex="-1">External Link Disclaimer</h4></header>
+<section>
+<div class="bold">
+<p>You are exiting the Social Security Administration's website.</p>
+<p>Select OK to proceed.</p>
+<p class="underline">Disclaimer</p>
+</div>
+<p>The Social Security Administration (SSA) website contains links to websites not affiliated with the United States government. These may include State and Local governmental agencies, international agencies, and private entities.</p>
+<p>SSA cannot attest to the accuracy of information provided by such websites. If we provide a link to such a website, this does not constitute an endorsement by SSA or any of its employees of the information or products presented on the non-SSA website.</p>
+<p>Also, such websites are not within our control and may not follow the same privacy, security or accessibility policies. Once you visit such a website, you are subject to the policies of that site.</p>
+<hr />
+<div class="align-right">
+<a class="btn" href="#" id="btn-cancel">Cancel</a>
+<a class="btn" href="#" id="btn-ok">OK</a> 
+</div>
+</section>
+</div>
+</aside>
+
+<!-- UTILITY BAR -->
+<aside class="utility-bar" id="utility-bar">
+
+<!-- UTILITY BAR TOP -->
+<span class="utility-bar-top">
+<a class="icon icon-twitter share-link" href="#" id="share-twitter" title="Share on Twitter">
+<svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-twitter"></use></svg>
+</a>
+<a class="icon icon-facebook share-link" href="#" id="share-facebook" title="Share on Facebook">
+<svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-facebook"></use></svg>
+</a>
+<a class="icon icon-gov-delivery" href="#" id="gov-delivery-link" title="Get Page Updates">
+<svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-gov-delivery"></use></svg>
+</a>
+</span>
+<!-- END UTILITY BAR TOP -->
+
+<!-- UTILITY BAR BOTTOM -->
+<span class="utility-bar-bottom">
+<a class="icon icon-arrow-up" href="#banner" id="top-link" title="Back to Top">
+<svg focusable="false"><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-arrow-up"></use></svg>
+</a>
+</span>
+<!-- END UTILITY BAR BOTTOM -->	
+
+</aside>
+<!-- END UTILITY BAR -->
+
+<!-- OVERLAY -->
+<div class="overlay"></div>
+
+<!-- SSA INTERNET BODY SCRIPTS -->
+<script src="/framework/js/ssa.internet.body.js"></script>
+</body>
+</html>
