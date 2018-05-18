@@ -1,0 +1,12 @@
+Filesystem     1K-blocks      Used Available Use% Mounted on
+udev             2874972        12   2874960   1% /dev
+tmpfs             577548      1224    576324   1% /run
+/dev/sda1       13286512   6118468   6470088  49% /
+none                   4         0         4   0% /sys/fs/cgroup
+none                5120         0      5120   0% /run/lock
+none             2887732       112   2887620   1% /run/shm
+none              102400        48    102352   1% /run/user
+/dev/sda5       28935260   6500644  20941724  24% /sysdata
+/dev/sda3      209721204 158250456  51470748  76% /aspire1C
+/dev/sda6      235398140 207983572  27414568  89% /aspire1L
+/dev/sdb1       62980076     90224  62889852   1% /media/pi/MEZMORY64
