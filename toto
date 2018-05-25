@@ -11,3 +11,14 @@ none              102400        48    102352   1% /run/user
 /dev/sda3      209721204 158250456  51470748  76% /aspire1C
 /dev/sda6      235398140 207983572  27414568  89% /aspire1L
 /dev/sdb1       62980076     90224  62889852   1% /media/pi/MEZMORY64
+Filesystem     1K-blocks      Used Available Use% Mounted on
+udev             2874972        12   2874960   1% /dev
+tmpfs             577548      1216    576332   1% /run
+/dev/sda1       13286512   6141364   6447192  49% /
+none                   4         0         4   0% /sys/fs/cgroup
+none                5120         0      5120   0% /run/lock
+none             2887732       112   2887620   1% /run/shm
+none              102400        44    102356   1% /run/user
+/dev/sda3      209721204 157066648  52654556  75% /aspire1C
+/dev/sda6      235398140 207950972  27447168  89% /aspire1L
+/dev/sda5       28935260   6612232  20830136  25% /sysdata
